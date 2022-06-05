@@ -19,6 +19,7 @@ function App() {
         </a>
         <h1>first react project</h1>
         <h1>first react project</h1>
+        <h2>Second React Project</h2>
 
       </header>
     </div>
